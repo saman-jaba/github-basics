@@ -1,0 +1,13 @@
+@font-face {
+	font-family: "iransans";
+	src: url(irsans.eot);
+	src: url(irsans.eot?#iefix) format("embedded-opentype"), url(irsans.woff) format("woff"), url(irsans.ttf) format("truetype"), url(irsans.svg#iransans) format("svg");
+	font-weight: normal;
+	font-style: normal
+}
+body,h1,h2,h3,h4,h5,h6,a
+{
+    letter-spacing: 0 !important;
+    font-family: "iransans" !important;
+}
+
