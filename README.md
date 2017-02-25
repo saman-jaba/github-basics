@@ -1,3 +1,3 @@
              # github-basics
-    [visit whit me](hhtp://bernta.com)    
+    [visit whit me](http://bernta.com)    
     
